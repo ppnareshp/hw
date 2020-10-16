@@ -1,0 +1,9 @@
+//Initial version of code
+
+char src[ ]="testing the length";
+int length=0;
+int i=0;
+while(src[i]){
+ i++;
+ }
+ printf("%d\n",i);
