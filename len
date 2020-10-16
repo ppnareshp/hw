@@ -1,7 +1,9 @@
 /*
 Find length of the string
 */
-char src[ ]="testing the length";
+char* hi="sjdfkla";
+char dst="qeruio erwuithowe uweriow";
+int sdfkajsd=90;
 int length=0;
 while(src[length])
  length++;
