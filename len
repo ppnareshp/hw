@@ -1,8 +1,10 @@
-main(){
-int a[10]={1,2,3,4,5};
-int i=0;
-for(i=0;i<10;i++)
-{
- printf("%d\n",a[i]);
-}
-}
+/*
+Find length of the string
+*/
+char* hi="sjdfkla";
+char dst="qeruio erwuithowe uweriow";
+int sdfkajsd=90;
+int length=0;
+while(src[length])
+ length++;
+ printf("length of string %s=%d\n",src,length);
