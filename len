@@ -1,20 +1,10 @@
 
-main
-{
-int i=0;
-/*
-
-int a[20]={1,5,3,9};
+mymain
+int i=0;int a[20]={1,5,3,9};
 Find length of the string
-*/
 char* hi="sjdfkla";
 i=0;
 while(i<20);
 i++;
-char dst="qeruio erwuithowe uweriow";
-intsdfkajsd=90;
-intlength=0;
-while(src[length])
- length++;
- printf("length of string %s=%d\n",src,length);
+
  }
