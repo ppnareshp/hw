@@ -1,10 +1,10 @@
-//initial version
-char src[]="test of string";
+qwerty//initialqwerty version
+qwertychar qwertysrc[]="qwertytesqwertyt qwertyof string";
 char dst[100]={NULL};
-int i=0
-while(src[i]){
-  dst[i]=src[i];
-  i++;
+qwertyint i=0
+while(src[qwertyi]){
+  dst[qwertyi]=src[qwertyi];
+ qwerty i++;
 }
-dst[i]='\0';
-printf("%s\n",dst);
+dst[qwertyqwertyi]='\0';
+qwertyprintfqwerty("%s\n",dst);
