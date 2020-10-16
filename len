@@ -1,9 +1,8 @@
-//Initial version of code
-
+/*
+Find length of the string
+*/
 char src[ ]="testing the length";
 int length=0;
-int i=0;
-while(src[i]){
- i++;
- }
- printf("%d\n",i);
+while(src[length])
+ length++;
+ printf("length of string %s=%d\n",src,length);
